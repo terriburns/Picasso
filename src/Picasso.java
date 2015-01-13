@@ -8,7 +8,7 @@
 
 import processing.core.PApplet;
 
-public class Picaso extends PApplet {
+public class Picasso extends PApplet {
 	// CONSTANTS
 	static final int WINDOW_WIDTH = 700;
 	static final int WINDOW_HEIGHT = 700; 
